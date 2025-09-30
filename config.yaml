@@ -1,0 +1,11 @@
+symbols:
+  - SOLUSDT
+  - SUIUSDT
+  - ETHUSDT
+source: binance
+interval: "1d"
+limit: 1000
+annualization_days: 365
+windows: [30, 90, 180]
+risk_levels: [0.95]
+liquidity_window: 30
